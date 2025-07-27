@@ -28,5 +28,6 @@ To evaluate key business metrics such as order performance, customer behavior, a
 ![Blinkit Power BI Dashboard](https://app.powerbi.com/links/DhUA3cjTSB?ctid=b62e418b-7b99-4289-80b3-528a3db14301&pbi_source=linkShare&bookmarkGuid=517049db-b3b3-4f3c-aa07-90104ec73261)
 
 
+[Download the .pbix file](https://github.com/saiharshitha803/Blinkit-Dashboard-Analysis/blob/main/blinkit%20analysis.pbix)
 
-
+> Note: Please open this file in the **latest version** of Power BI Desktop.
